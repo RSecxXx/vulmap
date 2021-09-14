@@ -1,2 +1,2 @@
-gevent>=20.9
+gevent==21.8.0
 pycryptodome
